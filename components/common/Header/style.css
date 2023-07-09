@@ -1,0 +1,22 @@
+.header__adress {
+    line-height: 22px;
+    color: #333333;
+    font-size: 14px;
+    font-family: 'Montserrat',Arial,sans-serif;
+    font-weight: 600;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+
+.phone {
+    font-size: 14px;
+    font-family: 'Montserrat',Arial,sans-serif;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    line-height: 22px;
+    color: #333333;
+    text-decoration: none;
+    font-weight: bold;
+}
